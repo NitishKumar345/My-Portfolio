@@ -1,0 +1,35 @@
+[
+    {
+      "key": 1,
+      "title": "Wonderlust",
+      "imageSrc": "projectImg/wanderlustimg.png",
+      "description": "This is a project made with complete MERN-Stack.",
+      "demo": "https://wonderlust-705x.onrender.com",
+      "source": "https://github.com/NitishKumar345/Wonderlust"
+    },
+    {
+      "key": 2,
+      "title": "Pinterest-clone",
+      "imageSrc": "projectImg/pinterestimg.jpg",
+      "description": "This is a project made with complete MERN-Stack.",
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "key": 3,
+      "title": "Weather-widget",
+      "imageSrc": "projectImg/weather.jpg",
+      "description": "This is a project made with complete React js and Tailwind CSS.",
+      "demo": "https://weather-widget1.netlify.app/",
+      "source": "https://github.com/NitishKumar345/Weather-widget"
+    },
+    {
+      "key": 4,
+      "title": "WordToPdf",
+      "imageSrc": "projectImg/wordtoPDF.png",
+      "description": "This is a project made with complete MERN-Stack.",
+      "demo": "https://converter-app.netlify.app/",
+      "source": "https://github.com/NitishKumar345?tab=repositories"
+    }
+  ]
+  

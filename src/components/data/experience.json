@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "role": "Web Development",
+    "organisation": "CodeTech it Solutions",
+    "startDate": "June, 2024",
+    "endDate": "Aug, 2024",
+    "location": "Remote Internship",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "company/codetech.jpg"
+}
